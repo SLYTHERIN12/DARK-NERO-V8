@@ -27,7 +27,7 @@ global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = "SmlYbUJkUXI=" //session Id
+global.session = "QnJrREJiZUw=" //session Id
 global.ownernomer = "918968708597" //ur number
 global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['918968708597'] //ur premium number
